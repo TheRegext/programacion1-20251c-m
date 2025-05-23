@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1748010014 source:e:\github\educacion\utn\programacion1-20251c-m\semana 10\viernes\proyecton\main.cpp
+	<iostream>
+	<ctime>
+
+1748010675 source:e:\github\educacion\utn\programacion1-20251c-m\semana 10\viernes\proyecton\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1748011200 source:e:\github\educacion\utn\programacion1-20251c-m\semana 10\viernes\proyecton\dados.cpp
+	"dados.h"
+	"funciones.h"
+
+1748011075 e:\github\educacion\utn\programacion1-20251c-m\semana 10\viernes\proyecton\dados.h
+
+1748010551 e:\github\educacion\utn\programacion1-20251c-m\semana 10\viernes\proyecton\funciones.h
+
