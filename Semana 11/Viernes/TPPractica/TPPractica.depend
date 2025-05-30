@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1748613506 source:e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\main.cpp
+	<iostream>
+	"menu.h"
+
+1748615869 e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\menu.h
+
+1748615779 source:e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1748615638 e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\juego.h
+
+1748614205 source:e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\dados.cpp
+	<iostream>
+	"dados.h"
+
+1748614213 e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\dados.h
+
+1748615516 source:e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1748614635 e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\funciones.h
+
+1748615625 source:e:\github\educacion\utn\programacion1-20251c-m\semana 11\viernes\tppractica\juego.cpp
+	<iostream>
+	"juego.h"
+	"dados.h"
+	"funciones.h"
+
